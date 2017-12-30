@@ -15,27 +15,27 @@ lugar.push(fort1);
 
 //Fort 2
 var fort2 = rsr.path("m 336.1136,1768.3411 a 54.617203,54.617203 0 0 0 -54.6172,-54.6172 54.617203,54.617203 0 0 0 -54.6172,54.6172 54.617203,54.617203 0 0 0 54.6172,54.6172 54.617203,54.617203 0 0 0 54.6172,-54.6172 z");
-fort2.attr({id: 'fort2',opacity: '0.6',fill: '#dd8148',"fill-opacity": '1',stroke: '#000000',"stroke-width": '0.94',"stroke-opacity": '1'}).data({'id':'fort2', 'lugar-name':'Fort Santiago'});
+fort2.attr({id: 'fort2',opacity: '0.6',fill: '#dd8148',"fill-opacity": '1',stroke: '#000000',"stroke-width": '0.94',"stroke-opacity": '1'}).data({'id':'fort2', 'lugar-name':'Unang bumisita kay Rizal ang mga Heswitang guro niya sa Ateneo: sina Padre Mata, Padre Viza, at Padre Faura. Pinaalala ni Rizal ang babala ni Faurang ikamamatay niya ang mga nobela. “Padre, isa ka ngang propeta!”'});
 lugar.push(fort2);
 
 //Fort 3
 var fort3 = rsr.path("m 458.20972,1717.7521 a 54.617203,54.617203 0 0 0 -54.6172,-54.6172 54.617203,54.617203 0 0 0 -54.6172,54.6172 54.617203,54.617203 0 0 0 54.6172,54.6172 54.617203,54.617203 0 0 0 54.6172,-54.6172 z");
-fort3.attr({id: 'fort3',opacity: '0.6',fill: '#dd8148',"fill-opacity": '1',stroke: '#000000',"stroke-width": '0.94',"stroke-opacity": '1'}).data('id', 'fort3');
+fort3.attr({id: 'fort3',opacity: '0.6',fill: '#dd8148',"fill-opacity": '1',stroke: '#000000',"stroke-width": '0.94',"stroke-opacity": '1'}).data({'id':'fort3', 'lugar-name':'Sinulat ni Rizal ang huling liham sa mga kaibigan. Sinulat niya rin ang tulang kilala ngayon bilang "Mi Ultimo Adios". Itinago niya ang kopya ng tula sa kanyang gasera."'});
 lugar.push(fort3);
 
 //Fort 4
 var fort4 = rsr.path("m 272.2395,1935.1182 a 54.617203,54.617203 0 0 0 -54.6172,-54.6172 54.617203,54.617203 0 0 0 -54.6172,54.6172 54.617203,54.617203 0 0 0 54.6172,54.6172 54.617203,54.617203 0 0 0 54.6172,-54.6172 z");
-fort4.attr({id: 'path4514-05',opacity: '0.6',fill: '#dd8148',"fill-opacity": '1',stroke: '#000000',"stroke-width": '0.94',"stroke-opacity": '1'}).data('id', 'fort4');
+fort4.attr({id: 'path4514-05',opacity: '0.6',fill: '#dd8148',"fill-opacity": '1',stroke: '#000000',"stroke-width": '0.94',"stroke-opacity": '1'}).data({'id':'fort4', 'lugar-name':'Dumalaw sa huling pagkakataon ang kanyang pamilya. Iniwan niya ang kanyang mga pamana: upuan kay Narcisa, at panyo, sinturon, at relo sa mga pamagking sina Angelica at Mauricio. Iniabot din niya kay Trinidad ang gaserang naglalaman ng kopya ng tula.'});
 lugar.push(fort4);
 
 //Fort 5
 var fort5 = rsr.path("m 382.33561,1897.0796 a 54.617203,54.617203 0 0 0 -54.6172,-54.6172 54.617203,54.617203 0 0 0 -54.6172,54.6172 54.617203,54.617203 0 0 0 54.6172,54.6172 54.617203,54.617203 0 0 0 54.6172,-54.6172 z");
-fort5.attr({id: 'path4514-9-1',opacity: '0.6',fill: '#dd8148',"fill-opacity": '1',stroke: '#000000',"stroke-width": '0.94',"stroke-opacity": '1'}).data('id', 'fort5');
+fort5.attr({id: 'path4514-9-1',opacity: '0.6',fill: '#dd8148',"fill-opacity": '1',stroke: '#000000',"stroke-width": '0.94',"stroke-opacity": '1'}).data({'id':'fort5', 'lugar-name':'Dumating si Josephine Bracken, at binigyan ni Rizal ng librong Imitations of Christ. Nakasulat sa libro: “To my dear and unhappy wife, Josephine, December 30th 1896.” Hinagkan niya ang asawa.'});
 lugar.push(fort5);
 
 //Fort 6
 var fort6 = rsr.path("m 509.69747,1882.1235 a 54.617203,54.617203 0 0 0 -54.6172,-54.6172 54.617203,54.617203 0 0 0 -54.6172,54.6172 54.617203,54.617203 0 0 0 54.6172,54.6172 54.617203,54.617203 0 0 0 54.6172,-54.6172 z");
-fort6.attr({id: 'path4514-0-3',opacity: '0.6',fill: '#dd8148',"fill-opacity": '1',stroke: '#000000',"stroke-width": '0.94',"stroke-opacity": '1'}).data('id', 'fort6');
+fort6.attr({id: 'path4514-0-3',opacity: '0.6',fill: '#dd8148',"fill-opacity": '1',stroke: '#000000',"stroke-width": '0.94',"stroke-opacity": '1'}).data({'id':'fort6', 'lugar-name':'Nagsimula ang pagmartsa ni Rizal patungong Bagumbayan nang 6:30 ng umaga. Suot niya’y itim na coat at pantalon at puting kamisa’t chaleco. Kasabay niyang maglakad ang mga Heswitang sina Padre March at Padre Villaclara.'});
 lugar.push(fort6);
 
 //Postigo
@@ -45,7 +45,7 @@ lugar.push(postigo);
 
 //Ateneo
 var ateneo = rsr.path("m 1477.0363,1694.6506 a 54.617203,54.617203 0 0 0 -54.6172,-54.6172 54.617203,54.617203 0 0 0 -54.6172,54.6172 54.617203,54.617203 0 0 0 54.6172,54.6172 54.617203,54.617203 0 0 0 54.6172,-54.6172 z");
-ateneo.attr({id: 'path4514-0-3-2-4',opacity: '0.6',fill: '#dd8148',"fill-opacity": '1',stroke: '#000000',"stroke-width": '0.94',"stroke-opacity": '1'}).data({'id':'ateneo', 'lugar-name':'"Iyan ba ang Ateneo? Marami akong masasayang taon diyan."'});;
+ateneo.attr({id: 'path4514-0-3-2-4',opacity: '0.6',fill: '#dd8148',"fill-opacity": '1',stroke: '#000000',"stroke-width": '0.94',"stroke-opacity": '1'}).data({'id':'ateneo', 'lugar-name':'"Iyan ba ang Ateneo? Marami akong masasayang taon diyan."'});
 lugar.push(ateneo);
 
 //PLM
@@ -55,22 +55,22 @@ lugar.push(plm);
 
 //San Juan de Dios
 var sjdj = rsr.path("m 1476.302,798.83801 a 54.617203,54.617203 0 0 0 -54.6172,-54.6172 54.617203,54.617203 0 0 0 -54.6172,54.6172 54.617203,54.617203 0 0 0 54.6172,54.6172 54.617203,54.617203 0 0 0 54.6172,-54.6172 z");
-sjdj.attr({id: 'path4514-0-3-2-4-1',opacity: '0.6',fill: '#dd8148',"fill-opacity": '1',stroke: '#000000',"stroke-width": '0.94',"stroke-opacity": '1'}).data('id', 'sjdj');
+sjdj.attr({id: 'path4514-0-3-2-4-1',opacity: '0.6',fill: '#dd8148',"fill-opacity": '1',stroke: '#000000',"stroke-width": '0.94',"stroke-opacity": '1'}).data({'id':'sjdj', 'lugar-name':'Sa Ospital de San Juan de Dios dinala ang bangkay.'});
 lugar.push(sjdj);
 
 //Bagumbayan
 var bagumbayan = rsr.path("m 2851.2141,1750.8726 a 54.617203,54.617203 0 0 0 -54.6172,-54.6172 54.617203,54.617203 0 0 0 -54.6172,54.6172 54.617203,54.617203 0 0 0 54.6172,54.6172 54.617203,54.617203 0 0 0 54.6172,-54.6172 z");
-bagumbayan.attr({id: 'path4514-0-3-2-4-1-9',opacity: '0.6',fill: '#dd8148',"fill-opacity": '1',stroke: '#000000',"stroke-width": '0.94',"stroke-opacity": '1'}).data('id', 'bagumbayan');
+bagumbayan.attr({id: 'path4514-0-3-2-4-1-9',opacity: '0.6',fill: '#dd8148',"fill-opacity": '1',stroke: '#000000',"stroke-width": '0.94',"stroke-opacity": '1'}).data({'id':'bagumbayan', 'lugar-name':'Alas siyete ng umaga nang makarating si Rizal sa Bagumbayan. Handa na ang mga Indiong babaril kay Rizal, pati ang mga Kastilang babaril sa kanila kung hindi bumaril. Sinuri ng isang doktor ang pulso ni Rizal. Sa kabila ng napipinto niyang kamatayan, normal lamang ang pulso nito. 7:03. "Consummatum est!" Sa huling sandali, nagawa ni Rizal na umikot nang bumagsak siyang nakaharap sa langit.'});
 lugar.push(bagumbayan);
 
 //Luneta
 var luneta = rsr.path("m 2853.9484,1366.3815 a 54.617203,54.617203 0 0 0 -54.6172,-54.6172 54.617203,54.617203 0 0 0 -54.6172,54.6172 54.617203,54.617203 0 0 0 54.6172,54.6172 54.617203,54.617203 0 0 0 54.6172,-54.6172 z");
-luneta.attr({id: 'path4514-0-3-2-4-1-9-9',opacity: '0.6',fill: '#dd8148',"fill-opacity": '1',stroke: '#000000',"stroke-width": '0.94',"stroke-opacity": '1'}).data('id', 'luneta');
+luneta.attr({id: 'path4514-0-3-2-4-1-9-9',opacity: '0.6',fill: '#dd8148',"fill-opacity": '1',stroke: '#000000',"stroke-width": '0.94',"stroke-opacity": '1'}).data({'id':'luneta', 'lugar-name':'Matapos ang labing-anim na taon, inilipat ang mga labi ni Rizal sa kanyang monumento malapit sa Bagumbayan. Kilala na ngayon ito bilang "Liwasang Rizal" o "Luneta", mula sa lumang Kastilang pangalan nito.'});
 lugar.push(luneta);
 
 //Paco
 var paco = rsr.path("m 3042.2857,248.21232 a 54.617203,54.617203 0 0 0 -54.6172,-54.6172 54.617203,54.617203 0 0 0 -54.6172,54.6172 54.617203,54.617203 0 0 0 54.6172,54.6172 54.617203,54.617203 0 0 0 54.6172,-54.6172 z");
-paco.attr({id: 'path4514-0-3-2-4-1-9-7',opacity: '0.6',fill: '#dd8148',"fill-opacity": '1',stroke: '#000000',"stroke-width": '0.94',"stroke-opacity": '1'}).data('id', 'paco');
+paco.attr({id: 'path4514-0-3-2-4-1-9-7',opacity: '0.6',fill: '#dd8148',"fill-opacity": '1',stroke: '#000000',"stroke-width": '0.94',"stroke-opacity": '1'}).data({'id':'paco', 'lugar-name':'Inilibing sa lihim na puntod sa Sementeryo de Paco si Rizal. Nang mahanap ng kapatid na si Narcisa ang puntod, nilagyan niya ng baligtad na inisyal bilang pananda: "RPJ".'});
 lugar.push(paco);
 
 var clam = [];
