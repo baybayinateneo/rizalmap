@@ -15,7 +15,7 @@ lugar.push(fort1);
 
 //Fort 2
 var fort2 = rsr.path("m 336.1136,1768.3411 a 54.617203,54.617203 0 0 0 -54.6172,-54.6172 54.617203,54.617203 0 0 0 -54.6172,54.6172 54.617203,54.617203 0 0 0 54.6172,54.6172 54.617203,54.617203 0 0 0 54.6172,-54.6172 z");
-fort2.attr({id: 'fort2',opacity: '0.6',fill: '#dd8148',"fill-opacity": '1',stroke: '#000000',"stroke-width": '0.94',"stroke-opacity": '1'}).data({'id':'fort2', 'lugar-name':'Unang bumisita kay Rizal ang mga Heswitang guro niya sa Ateneo: sina Padre Mata, Padre Viza, at Padre Faura. Pinaalala ni Rizal ang babala ni Faurang ikamamatay niya ang mga nobela. “Padre, isa ka ngang propeta!”'});
+fort2.attr({id: 'fort2',opacity: '0.6',fill: '#dd8148',"fill-opacity": '1',stroke: '#000000',"stroke-width": '0.94',"stroke-opacity": '1'}).data({'id':'fort2', 'lugar-name':'Unang bumisita kay Rizal ang mga Heswitang guro niya sa Ateneo: sina Padre Mata, Padre Viza, at Padre Faura. Pinaalala ni Rizal ang babala ni Faurang ikamamatay niya ang mga nobela. "Padre, isa ka ngang propeta!"'});
 lugar.push(fort2);
 
 //Fort 3
@@ -30,12 +30,12 @@ lugar.push(fort4);
 
 //Fort 5
 var fort5 = rsr.path("m 382.33561,1897.0796 a 54.617203,54.617203 0 0 0 -54.6172,-54.6172 54.617203,54.617203 0 0 0 -54.6172,54.6172 54.617203,54.617203 0 0 0 54.6172,54.6172 54.617203,54.617203 0 0 0 54.6172,-54.6172 z");
-fort5.attr({id: 'path4514-9-1',opacity: '0.6',fill: '#dd8148',"fill-opacity": '1',stroke: '#000000',"stroke-width": '0.94',"stroke-opacity": '1'}).data({'id':'fort5', 'lugar-name':'Dumating si Josephine Bracken, at binigyan ni Rizal ng librong Imitations of Christ. Nakasulat sa libro: “To my dear and unhappy wife, Josephine, December 30th 1896.” Hinagkan niya ang asawa.'});
+fort5.attr({id: 'path4514-9-1',opacity: '0.6',fill: '#dd8148',"fill-opacity": '1',stroke: '#000000',"stroke-width": '0.94',"stroke-opacity": '1'}).data({'id':'fort5', 'lugar-name':'Dumating si Josephine Bracken, at binigyan ni Rizal ng librong Imitations of Christ. Nakasulat sa libro: "To my dear and unhappy wife, Josephine, December 30th 1896." Hinagkan niya ang asawa.'});
 lugar.push(fort5);
 
 //Fort 6
 var fort6 = rsr.path("m 509.69747,1882.1235 a 54.617203,54.617203 0 0 0 -54.6172,-54.6172 54.617203,54.617203 0 0 0 -54.6172,54.6172 54.617203,54.617203 0 0 0 54.6172,54.6172 54.617203,54.617203 0 0 0 54.6172,-54.6172 z");
-fort6.attr({id: 'path4514-0-3',opacity: '0.6',fill: '#dd8148',"fill-opacity": '1',stroke: '#000000',"stroke-width": '0.94',"stroke-opacity": '1'}).data({'id':'fort6', 'lugar-name':'Nagsimula ang pagmartsa ni Rizal patungong Bagumbayan nang 6:30 ng umaga. Suot niya’y itim na coat at pantalon at puting kamisa’t chaleco. Kasabay niyang maglakad ang mga Heswitang sina Padre March at Padre Villaclara.'});
+fort6.attr({id: 'path4514-0-3',opacity: '0.6',fill: '#dd8148',"fill-opacity": '1',stroke: '#000000',"stroke-width": '0.94',"stroke-opacity": '1'}).data({'id':'fort6', 'lugar-name':'Nagsimula ang pagmartsa ni Rizal patungong Bagumbayan nang 6:30 ng umaga. Suot niya ay itim na coat at pantalon, puting kamisa, at chaleco. Kasabay niyang maglakad ang mga Heswitang sina Padre March at Padre Villaclara.'});
 lugar.push(fort6);
 
 //Postigo
