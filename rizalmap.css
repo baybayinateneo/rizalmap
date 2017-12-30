@@ -1,0 +1,43 @@
+body {
+	font-family: Helvetica, sans-serif;
+	font-size: 93.75%;
+
+}
+
+.manila {
+				background-image: url("MNL RZL.png");
+				background-repeat: no-repeat;
+				
+				
+			}
+.infobox {
+	width: auto;
+	height: auto;	
+	font-size: 3em;
+	padding-top: 12px;
+	padding-right: 10px;
+	padding-bottom: 12px;
+	padding-left: 10px;
+	position: absolute;
+	top: -9999px;
+	left: -9999px;
+	border: solid 2px blue;
+	background-color: #EEE;
+}
+.infobox__close {
+	width: auto;
+	height: auto;
+	padding: 1px;
+	font-size: .5em;
+	line-height: 0.9333333333em;
+	color: red;
+	position: absolute;
+	top: 1px;
+	right: 1px;
+	text-decoration: none;
+	display: block;
+	-webkit-border-radius: 10px;
+	   -moz-border-radius: 10px;
+			border-radius: 10px;
+	border: solid 1px red;
+}
