@@ -25,7 +25,7 @@ lugar.push(fort3);
 
 //Fort 4
 var fort4 = rsr.path("m 272.2395,1935.1182 a 54.617203,54.617203 0 0 0 -54.6172,-54.6172 54.617203,54.617203 0 0 0 -54.6172,54.6172 54.617203,54.617203 0 0 0 54.6172,54.6172 54.617203,54.617203 0 0 0 54.6172,-54.6172 z");
-fort4.attr({id: 'path4514-05',opacity: '0.6',fill: '#dd8148',"fill-opacity": '1',stroke: '#000000',"stroke-width": '0.94',"stroke-opacity": '1'}).data({'id':'fort4', 'lugar-name':'Dumalaw sa huling pagkakataon ang kanyang pamilya. Iniwan niya ang kanyang mga pamana: upuan kay Narcisa, at panyo, sinturon, at relo sa mga pamagking sina Angelica at Mauricio. Iniabot din niya kay Trinidad ang gaserang naglalaman ng kopya ng tula.'});
+fort4.attr({id: 'path4514-05',opacity: '0.6',fill: '#dd8148',"fill-opacity": '1',stroke: '#000000',"stroke-width": '0.94',"stroke-opacity": '1'}).data({'id':'fort4', 'lugar-name':'Dumalaw sa huling pagkakataon ang kanyang pamilya. Iniwan niya ang kanyang mga pamana: upuan kay Narcisa at panyo, sinturon, at relo sa mga pamangking sina Angelica at Mauricio. Iniabot din niya kay Trinidad ang gaserang naglalaman ng kopya ng tula.'});
 lugar.push(fort4);
 
 //Fort 5
@@ -50,7 +50,7 @@ lugar.push(ateneo);
 
 //PLM
 var plm = rsr.path("m 2129.0045,1423.1542 a 54.617203,54.617203 0 0 0 -54.6172,-54.6172 54.617203,54.617203 0 0 0 -54.6172,54.6172 54.617203,54.617203 0 0 0 54.6172,54.6172 54.617203,54.617203 0 0 0 54.6172,-54.6172 z");
-plm.attr({id: 'path4514-0-3-2-4-6',opacity: '0.6',fill: '#dd8148',"fill-opacity": '1',stroke: '#000000',"stroke-width": '0.94',"stroke-opacity": '1'}).data({'id':'plm', 'lugar-name':'Sa Cuartel de Espana noong Disyembre 26, nilitis at hinatulan si Jose Rizal.'});
+plm.attr({id: 'path4514-0-3-2-4-6',opacity: '0.6',fill: '#dd8148',"fill-opacity": '1',stroke: '#000000',"stroke-width": '0.94',"stroke-opacity": '1'}).data({'id':'plm', 'lugar-name':'Sa Cuartel de Espana noong Disyembre 26 nilitis at hinatulan si Jose Rizal.'});
 lugar.push(plm);
 
 //San Juan de Dios
